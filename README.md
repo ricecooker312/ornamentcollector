@@ -1,5 +1,7 @@
 # Ornament Collector
 
+## Video Demo: https://www.youtube.com/watch?v=urF5JeICkiw
+
 ## How to Play
 The goal of the game is to get as high of a score as possible, and you get that by collecting all ornaments in a level while avoiding enemies, which are stars. You move by holding and dragging your character in the opposite direction of where you want to go, similar to a golf game. As you collect ornaments, a christmas tree will be filled, and once you get 5, 100 coins will be awarded to you, which you can use to upgrade either your speed or your health. There are anywhere from 3-5 ornaments in a level and 2-4 enemies, and it is randomly generated. However, there is a maximum number of strokes you have to complete each level. 3 strokes for 3 ornaments, 3 strokes for 4 ornaments, and 4 strokes for 5 ornaments. If you use all of your strokes but ornaments are still remaining, you die. You also die if you lose all of your health.
 
